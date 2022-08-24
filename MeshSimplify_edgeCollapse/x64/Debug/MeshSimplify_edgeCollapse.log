@@ -1,0 +1,13 @@
+﻿  config.cpp
+  edge.cpp
+  edgeHeap.cpp
+  main.cpp
+  matrix.cpp
+  meshSimplify.cpp
+  myVec3d.cpp
+  solve.cpp
+  vector4.cpp
+  vertex.cpp
+  vertexGroup.cpp
+  正在生成代码...
+  MeshSimplify_edgeCollapse.vcxproj -> D:\Tianheng\Repository\MeshSimplify_edgeCollapse\x64\Debug\MeshSimplify_edgeCollapse.exe
